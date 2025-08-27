@@ -10,6 +10,7 @@ import List from './components/List.jsx'
 import ProfilePicture from './components/ProfilePicture.jsx'
 import MyComponent from './components/MyComponent.jsx'
 import Counter from './components/Counter.jsx'
+import ColorPicker from './components/ColorPicker.jsx'
 
 function App() {
 
@@ -44,6 +45,7 @@ function App() {
   <ProfilePicture />
   <MyComponent />
   <Counter />
+  <ColorPicker />
   <Footer />
   </>
   )
