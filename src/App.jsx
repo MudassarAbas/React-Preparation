@@ -12,6 +12,7 @@ import MyComponent from './components/MyComponent.jsx'
 import Counter from './components/Counter.jsx'
 import ColorPicker from './components/ColorPicker.jsx'
 import Component from './components/Component.jsx'
+import ArrayComponent from './components/ArrayComponent.jsx'
 
 function App() {
 
@@ -48,6 +49,7 @@ function App() {
   <Counter />
   <ColorPicker />
   <Component />
+  <ArrayComponent />
   <Footer />
   </>
   )
