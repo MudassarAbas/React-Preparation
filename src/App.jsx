@@ -13,6 +13,7 @@ import Counter from './components/Counter.jsx'
 import ColorPicker from './components/ColorPicker.jsx'
 import Component from './components/Component.jsx'
 import ArrayComponent from './components/ArrayComponent.jsx'
+import AoComponent from './components/AoComponent.jsx'
 
 function App() {
 
@@ -50,6 +51,7 @@ function App() {
   <ColorPicker />
   <Component />
   <ArrayComponent />
+  <AoComponent />
   <Footer />
   </>
   )
